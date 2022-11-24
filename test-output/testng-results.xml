@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T13:08:16 IST" name="Suite" finished-at="2022-11-24T13:08:16 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T13:08:16 IST" name="Test" finished-at="2022-11-24T13:08:16 IST" duration-ms="90">
+      <class name="Dummy1.Test3Test">
+        <test-method signature="Abc()[pri:0, instance:Dummy1.Test3Test@3e84448c]" started-at="2022-11-24T13:08:16 IST" name="Abc" finished-at="2022-11-24T13:08:16 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Abc -->
+      </class> <!-- Dummy1.Test3Test -->
+      <class name="Dummy1.Test4Test">
+        <test-method signature="Abc()[pri:0, instance:Dummy1.Test4Test@4d5b6aac]" started-at="2022-11-24T13:08:16 IST" name="Abc" finished-at="2022-11-24T13:08:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Abc -->
+      </class> <!-- Dummy1.Test4Test -->
+      <class name="Dummy1.Test2Test">
+        <test-method signature="Abcd()[pri:0, instance:Dummy1.Test2Test@d29f28]" started-at="2022-11-24T13:08:16 IST" name="Abcd" finished-at="2022-11-24T13:08:16 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Abcd -->
+      </class> <!-- Dummy1.Test2Test -->
+      <class name="Dummy1.Test1Test">
+        <test-method signature="Abc()[pri:0, instance:Dummy1.Test1Test@4a7f959b]" started-at="2022-11-24T13:08:16 IST" name="Abc" finished-at="2022-11-24T13:08:16 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Abc -->
+      </class> <!-- Dummy1.Test1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
